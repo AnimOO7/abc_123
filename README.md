@@ -27,6 +27,8 @@ Here is the link of site: deployed in cloud.
   
 </p>
 <br>
+<hr/>
+<hr/>
 <br>
 <h4 display="inline-block">Lobby page</h4>
 <p align="center">
@@ -35,6 +37,8 @@ Here is the link of site: deployed in cloud.
 
 </p>
 <br>
+<hr/>
+<hr/>
 <br>
 <h3 display="inline-block">Search Community to join..</h3>
 
@@ -44,7 +48,8 @@ Here is the link of site: deployed in cloud.
 
 </p>
 <br>
-<br>
+<hr/>
+<hr/>
 <br>
 <h4 display="inline-block">Community area</h4>
 <p align="center">
@@ -53,6 +58,8 @@ Here is the link of site: deployed in cloud.
 
 </p>
 <br>
+<hr/>
+<hr/>
 <br>
 <h4 display="inline-block">Chat Area</h4>
 <p align="center">
@@ -64,6 +71,8 @@ Here is the link of site: deployed in cloud.
 
 </p>
 <br>
+<hr/>
+<hr/>
 <br>
 <h4 display="inline-block">User profiles</h4>
 <p align="center">
@@ -74,6 +83,8 @@ Here is the link of site: deployed in cloud.
 
 </p>
 <br>
+<hr/>
+<hr/>
 <br>
 <h4 display="inline-block">Friend request area</h4>
 <p align="center">

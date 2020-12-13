@@ -30,7 +30,7 @@ Here is the link of site: deployed in cloud.
 <hr/>
 <hr/>
 <br>
-<h4 display="inline-block">Lobby page</h4>
+<h4 display="block" text-align="center">Lobby page</h4>
 <p align="center">
   
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/lobby.PNG" title="Registration Page">
@@ -40,7 +40,8 @@ Here is the link of site: deployed in cloud.
 <hr/>
 <hr/>
 <br>
-<h3 display="inline-block">Search Community to join..</h3>
+<h4 display="block" text-align="center">Search Community to join..</h4>
+
 
 <p align="center">
   
@@ -51,7 +52,7 @@ Here is the link of site: deployed in cloud.
 <hr/>
 <hr/>
 <br>
-<h4 display="inline-block">Community area</h4>
+<h4 display="block" text-align="center">Community area</h4>
 <p align="center">
   
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/communityArea.PNG" title="Registration Page">
@@ -61,7 +62,7 @@ Here is the link of site: deployed in cloud.
 <hr/>
 <hr/>
 <br>
-<h4 display="inline-block">Chat Area</h4>
+<h4 display="block" text-align="center">Chat Area</h4>
 <p align="center">
   
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/chatAreaOne.PNG" title="Registration Page">
@@ -74,7 +75,7 @@ Here is the link of site: deployed in cloud.
 <hr/>
 <hr/>
 <br>
-<h4 display="inline-block">User profiles</h4>
+<h4 display="block" text-align="center">User profiles</h4>
 <p align="center">
   
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/personalProfile.PNG" title="Registration Page">
@@ -86,7 +87,7 @@ Here is the link of site: deployed in cloud.
 <hr/>
 <hr/>
 <br>
-<h4 display="inline-block">Friend request area</h4>
+<h4 display="block" text-align="center">Friend request area</h4>
 <p align="center">
   
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/friendRequestArea.PNG" title="Registration Page">

@@ -96,3 +96,16 @@ Here is the link of site: deployed in cloud.
   
 
 </p>
+
+
+<h2>Features (that we originally planned to add) </h2>
+- Chatting system<br>
+- Hierarchical authentication<br>
+- Recommender system to recommend new users to add them as friends based on features like illness, location (decreasing priority)<br>
+- For validation of the patients, the registered user will be required to upload a certificate or medical prescription from registered hospital certifying his illness<br>
+- Notify / call friends in times of emergency<br>
+- In the profile, his history can be recorded using the hospital data<br>
+- Profile of doctors / patients visible only to registered individuals<br>
+- End to end encryption using Web Crypto API for additional layer of security.<br>
+- Can be registered not only by patients but also by their relatives<br>
+- Can virtually talk with each other<br>

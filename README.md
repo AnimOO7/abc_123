@@ -30,7 +30,8 @@ Here is the link of site: deployed in cloud.
 <hr/>
 <hr/>
 <br>
-<h4 display="block" text-align="center">Lobby page</h4>
+<h4 display="block" text-align="center" text-align="center">Lobby page</h4>
+<p align="center" font-size="21px">Lobby page</p>
 <p align="center">
   
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/lobby.PNG" title="Registration Page">
@@ -41,6 +42,7 @@ Here is the link of site: deployed in cloud.
 <hr/>
 <br>
 <h4 display="block" text-align="center">Search Community to join..</h4>
+<p align="center" font-size="21px">Search Community to join..</p>
 
 
 <p align="center">
@@ -53,6 +55,7 @@ Here is the link of site: deployed in cloud.
 <hr/>
 <br>
 <h4 display="block" text-align="center">Community area</h4>
+<p align="center" font-size="21px">Community area</p>
 <p align="center">
   
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/communityArea.PNG" title="Registration Page">
@@ -63,6 +66,7 @@ Here is the link of site: deployed in cloud.
 <hr/>
 <br>
 <h4 display="block" text-align="center">Chat Area</h4>
+<p align="center" font-size="21px">Chat area</p>
 <p align="center">
   
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/chatAreaOne.PNG" title="Registration Page">
@@ -76,18 +80,22 @@ Here is the link of site: deployed in cloud.
 <hr/>
 <br>
 <h4 display="block" text-align="center">User profiles</h4>
+<p align="center" font-size="21px">User profiles</p>
 <p align="center">
-  
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/personalProfile.PNG" title="Registration Page">
-  <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/otherUserProfile.PNG" title="Registration Page">
-  
-
 </p>
 <br>
 <hr/>
 <hr/>
 <br>
+<p align="center" font-size="21px">viewing other person profile</p>
+<p align="center"><img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/otherUserProfile.PNG" title="Registration Page"></p>
+<br>
+<hr/>
+<hr/>
+<br>
 <h4 display="block" text-align="center">Friend request area</h4>
+<p align="center" font-size="21px">Friend request area.</p>
 <p align="center">
   
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/friendRequestArea.PNG" title="Registration Page">

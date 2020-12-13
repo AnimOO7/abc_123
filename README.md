@@ -16,9 +16,9 @@ Here is the link of site: deployed in cloud.
 <br>
 <b>Chat scripts work on end to end encyption with private key encryption.</b>
 
-<p align="center"><b><br><h2>Template images</h2></b></p>
+<p align="center"><b><br><h2 display="inline-block">Template images</h2></b></p>
 
-<p align="center">Below are the login and registration pages.</p>
+<p align="center" font-size="21px">Below are the login and registration pages.</p>
 <p align="center">
   
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/login.PNG" title="Login Page">
@@ -26,26 +26,35 @@ Here is the link of site: deployed in cloud.
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/Registration.PNG" title="Registration Page">
   
 </p>
-Lobby page
+<br>
+<br>
+<h4 display="inline-block">Lobby page</h4>
 <p align="center">
   
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/lobby.PNG" title="Registration Page">
 
 </p>
-Search Community to join..
+<br>
+<br>
+<h3 display="inline-block">Search Community to join..</h3>
+
 <p align="center">
   
-  <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/searchAndJoin.PNG" title="Registration Page">
+  <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/searchAndJoinCommunity.PNG" title="Registration Page">
 
 </p>
 <br>
-Community area
+<br>
+<br>
+<h4 display="inline-block">Community area</h4>
 <p align="center">
   
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/communityArea.PNG" title="Registration Page">
 
 </p>
-Chat area
+<br>
+<br>
+<h4 display="inline-block">Chat Area</h4>
 <p align="center">
   
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/chatAreaOne.PNG" title="Registration Page">
@@ -54,7 +63,9 @@ Chat area
   
 
 </p>
-User profiles
+<br>
+<br>
+<h4 display="inline-block">User profiles</h4>
 <p align="center">
   
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/personalProfile.PNG" title="Registration Page">
@@ -62,7 +73,9 @@ User profiles
   
 
 </p>
-Friend request area
+<br>
+<br>
+<h4 display="inline-block">Friend request area</h4>
 <p align="center">
   
   <img src="https://github.com/Kelta-King/Kelta-King/blob/master/Images/friendRequestArea.PNG" title="Registration Page">
